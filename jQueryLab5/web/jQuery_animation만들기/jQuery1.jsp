@@ -53,7 +53,6 @@
             //전역변수 초기화
             $view=$('#view');
         };
-
         function initEvent(){
 
         };
